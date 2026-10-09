@@ -2,7 +2,7 @@ Clinical Olfactometer – Arduino and Python Control Software
 This repository contains the control software of the olfactometer described in the article:
 "Design, fabrication and assembly of a clinical olfactometer for early Alzheimer's detection"
 by DESPRES Elodie, NEROME Laura, SAADI Isma.
-It was created as a complement to the article, as part of a scientific project at Sup'Biotech, a biotechnology engineering school in Paris. The project, on the theme of olfaction and cognition, aims to build an olfactometer that can be used for tests of smell loss, which is linked to Alzheimer's disease.
+It was created as a complement to the article, as part of a scientific project at SupBiotech, a biotechnology engineering school in Paris. The project, on the theme of olfaction and cognition, aims to build an olfactometer that can be used for tests of smell loss, which is linked to Alzheimer's disease.
 > *NB* : The code in this repository is only one part of the device. The rest of the olfactometer (design, materials, assembly and methods) is described in the article. This software is a research prototype and is not a certified medical device.
 > 
 What is in this repository
